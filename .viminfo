@@ -12,7 +12,15 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1686282872,,"wq"
+|2,0,1686676706,,"wq"
+:q!
+|2,0,1686591989,,"q!"
+:qt
+|2,0,1686591938,,"qt"
+:q
+|2,0,1686591800,,"q"
+:qw
+|2,0,1686591797,,"qw"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +33,269 @@
 # Registers:
 
 # File marks:
-'0  3  0  ~/sample.txt
-|4,48,3,0,1686282872,"~/sample.txt"
+'0  11  79  ~/multiple.txt
+|4,48,11,79,1686676706,"~/multiple.txt"
+'1  11  80  ~/subtraction.txt
+|4,49,11,80,1686675126,"~/subtraction.txt"
+'2  11  80  ~/subtraction.txt
+|4,50,11,80,1686675117,"~/subtraction.txt"
+'3  1  41  ~/addition.txt
+|4,51,1,41,1686592951,"~/addition.txt"
+'4  1  3  ~/addition.txt
+|4,52,1,3,1686591989,"~/addition.txt"
+'5  13  58  ~/addition.txt
+|4,53,13,58,1686590682,"~/addition.txt"
+'6  13  58  ~/addition.txt
+|4,54,13,58,1686590682,"~/addition.txt"
+'7  1  0  ~/addition.tcct
+|4,55,1,0,1686590636,"~/addition.tcct"
+'8  2  0  ~/sample1.txt
+|4,56,2,0,1686589742,"~/sample1.txt"
+'9  2  42  ~/ssample1.txt
+|4,57,2,42,1686331889,"~/ssample1.txt"
 
 # Jumplist (newest first):
--'  3  0  ~/sample.txt
-|4,39,3,0,1686282872,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1686282754,"~/sample.txt"
+-'  11  79  ~/multiple.txt
+|4,39,11,79,1686676706,"~/multiple.txt"
+-'  1  0  ~/multiple.txt
+|4,39,1,0,1686676654,"~/multiple.txt"
+-'  11  80  ~/subtraction.txt
+|4,39,11,80,1686675126,"~/subtraction.txt"
+-'  11  80  ~/subtraction.txt
+|4,39,11,80,1686675126,"~/subtraction.txt"
+-'  11  80  ~/subtraction.txt
+|4,39,11,80,1686675117,"~/subtraction.txt"
+-'  11  80  ~/subtraction.txt
+|4,39,11,80,1686675117,"~/subtraction.txt"
+-'  1  0  ~/subtraction.txt
+|4,39,1,0,1686675043,"~/subtraction.txt"
+-'  1  0  ~/subtraction.txt
+|4,39,1,0,1686675043,"~/subtraction.txt"
+-'  1  0  ~/subtraction.txt
+|4,39,1,0,1686675043,"~/subtraction.txt"
+-'  1  0  ~/subtraction.txt
+|4,39,1,0,1686675043,"~/subtraction.txt"
+-'  1  41  ~/addition.txt
+|4,39,1,41,1686592951,"~/addition.txt"
+-'  1  41  ~/addition.txt
+|4,39,1,41,1686592951,"~/addition.txt"
+-'  1  41  ~/addition.txt
+|4,39,1,41,1686592951,"~/addition.txt"
+-'  1  41  ~/addition.txt
+|4,39,1,41,1686592951,"~/addition.txt"
+-'  1  41  ~/addition.txt
+|4,39,1,41,1686592951,"~/addition.txt"
+-'  1  41  ~/addition.txt
+|4,39,1,41,1686592951,"~/addition.txt"
+-'  1  41  ~/addition.txt
+|4,39,1,41,1686592951,"~/addition.txt"
+-'  1  41  ~/addition.txt
+|4,39,1,41,1686592951,"~/addition.txt"
+-'  1  3  ~/addition.txt
+|4,39,1,3,1686591989,"~/addition.txt"
+-'  1  3  ~/addition.txt
+|4,39,1,3,1686591989,"~/addition.txt"
+-'  1  3  ~/addition.txt
+|4,39,1,3,1686591989,"~/addition.txt"
+-'  1  3  ~/addition.txt
+|4,39,1,3,1686591989,"~/addition.txt"
+-'  1  3  ~/addition.txt
+|4,39,1,3,1686591989,"~/addition.txt"
+-'  1  3  ~/addition.txt
+|4,39,1,3,1686591989,"~/addition.txt"
+-'  1  3  ~/addition.txt
+|4,39,1,3,1686591989,"~/addition.txt"
+-'  1  3  ~/addition.txt
+|4,39,1,3,1686591989,"~/addition.txt"
+-'  15  0  ~/addition.txt
+|4,39,15,0,1686591837,"~/addition.txt"
+-'  15  0  ~/addition.txt
+|4,39,15,0,1686591837,"~/addition.txt"
+-'  15  0  ~/addition.txt
+|4,39,15,0,1686591837,"~/addition.txt"
+-'  15  0  ~/addition.txt
+|4,39,15,0,1686591837,"~/addition.txt"
+-'  15  0  ~/addition.txt
+|4,39,15,0,1686591837,"~/addition.txt"
+-'  15  0  ~/addition.txt
+|4,39,15,0,1686591837,"~/addition.txt"
+-'  15  0  ~/addition.txt
+|4,39,15,0,1686591837,"~/addition.txt"
+-'  15  0  ~/addition.txt
+|4,39,15,0,1686591837,"~/addition.txt"
+-'  14  0  ~/addition.txt
+|4,39,14,0,1686591835,"~/addition.txt"
+-'  14  0  ~/addition.txt
+|4,39,14,0,1686591835,"~/addition.txt"
+-'  14  0  ~/addition.txt
+|4,39,14,0,1686591835,"~/addition.txt"
+-'  14  0  ~/addition.txt
+|4,39,14,0,1686591835,"~/addition.txt"
+-'  14  0  ~/addition.txt
+|4,39,14,0,1686591835,"~/addition.txt"
+-'  14  0  ~/addition.txt
+|4,39,14,0,1686591835,"~/addition.txt"
+-'  14  0  ~/addition.txt
+|4,39,14,0,1686591835,"~/addition.txt"
+-'  14  0  ~/addition.txt
+|4,39,14,0,1686591835,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686591766,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686591766,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686591766,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686591766,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686591766,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686591766,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686591766,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686591766,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686590682,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686590682,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686590682,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686590682,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686590682,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686590682,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686590682,"~/addition.txt"
+-'  13  58  ~/addition.txt
+|4,39,13,58,1686590682,"~/addition.txt"
+-'  1  0  ~/addition.txt
+|4,39,1,0,1686590667,"~/addition.txt"
+-'  1  0  ~/addition.txt
+|4,39,1,0,1686590667,"~/addition.txt"
+-'  1  0  ~/addition.txt
+|4,39,1,0,1686590667,"~/addition.txt"
+-'  1  0  ~/addition.txt
+|4,39,1,0,1686590667,"~/addition.txt"
+-'  1  0  ~/addition.txt
+|4,39,1,0,1686590667,"~/addition.txt"
+-'  1  0  ~/addition.txt
+|4,39,1,0,1686590667,"~/addition.txt"
+-'  1  0  ~/addition.txt
+|4,39,1,0,1686590667,"~/addition.txt"
+-'  1  0  ~/addition.txt
+|4,39,1,0,1686590667,"~/addition.txt"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
+-'  1  0  ~/addition.tcct
+|4,39,1,0,1686590636,"~/addition.tcct"
 
 # History of marks within files (newest to oldest):
+
+> ~/multiple.txt
+	*	1686676702	0
+	"	11	79
+	^	11	80
+	.	11	79
+	+	11	79
+
+> ~/subtraction.txt
+	*	1686675122	0
+	"	11	80
+	^	11	81
+	.	11	80
+	+	11	80
+
+> ~/addition.txt
+	*	1686590649	0
+	"	1	41
+	^	1	42
+	.	1	41
+	+	1	41
+
+> ~/addition.tcct
+	*	1686590632	0
+	"	1	0
+
+> ~/sample1.txt
+	*	1686589737	0
+	"	2	0
+	^	2	0
+	.	1	88
+	+	1	88
+
+> ~/ssample1.txt
+	*	1686331843	0
+	"	2	42
+	^	2	43
+	.	2	42
+	+	2	42
 
 > ~/sample.txt
 	*	1686282867	0

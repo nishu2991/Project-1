@@ -1,0 +1,11 @@
+/ Function to multiply two numbers
+function multiplyNumbers(num1, num2) {
+  return num1 * num2;
+}
+
+// Example usage
+const number1 = 10;
+const number2 = 5;
+const result = multiplyNumbers(number1, number2);
+
+console.log("The result of multiplying", number1, "and", number2, "is", result);
